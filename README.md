@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_kraidesigns_" target="blank"><img src="https://img.shields.io/twitter/follow/_kraidesigns_?logo=twitter&style=for-the-badge" alt="_kraidesigns_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/kyraportfolionew](https://app.netlify.com/sites/kyraportfolionew)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/kyrakportfolio1](https://app.netlify.com/sites/kyrakportfolio1)
 
 - 💬 Ask me about **HTML & CSS**
 
