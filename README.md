@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **SQL, PYTHON AND AWS**
 
-- 👨‍💻 All of my projects are available at [https://kyrakportfolio1.netlify.app/](https://kyrakportfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at )
+- 👨‍💻 All of my projects are available at [https://kyraknew.netlify.app/](https://kyraknew.netlify.app/)
 
-- 📫 How to reach me **KYRAJK@GMAIL.COM**
+- 📫 How to reach me **KYKENDALL81@GMAIL.COM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
